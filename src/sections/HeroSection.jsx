@@ -34,7 +34,6 @@ function HeroSection() {
         trigger: '.hero-container',
         start: '1% top',
         end: 'bottom top',
-        markers:true,
         scrub:true
       }
     })
