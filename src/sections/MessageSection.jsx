@@ -48,7 +48,6 @@ function MessageSection() {
                 trigger: '.msg-text-scroll',
                 start: 'top 60%',
                 end: "top 60%",
-                markers: true,
             }
         })
         reveal.to('.msg-text-scroll',{
