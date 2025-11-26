@@ -1,12 +1,20 @@
-# React + Vite
+# Spylt Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a UI clone of the official SPYLT website: [spylt.com](https://www.spylt.com/).
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React + Vite** – Main framework and build tool.
+- **Tailwind CSS** – Utility‑first CSS framework for styling and responsive layout.
+- **GSAP (GreenSock Animation Platform)** – Used for advanced animations, especially scroll-based effects (ScrollTrigger, ScrollSmoother, horizontal scroll, etc.).
 
-## Expanding the ESLint configuration
+## Project Goals
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Practice **cloning a real-world landing page** based on the design and interactions from [Spylt](https://www.spylt.com/).
+- Improve skills with **GSAP animations** and scroll interactions.
+- Learn how to structure a modern **React + Tailwind** frontend project.
+
+## Getting Started
+
+npm install
+npm run dev
